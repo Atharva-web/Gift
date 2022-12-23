@@ -36,11 +36,11 @@ body {
     border: 10px solid #623412;
     height: 500px;
     width: 500px;
-    background: url("../images/gift1.jpg");
+    background: url("gift1.jpg");
     background-size: cover;
 }
 
 .gift:hover {
-    background-image: url("../images/damon-salvatore-hello.webp");
+    background-image: url("damon-salvatore-hello.webp");
     
 }
